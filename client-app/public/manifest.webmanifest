@@ -1,0 +1,24 @@
+{
+  "name": "Remote Command Center Client",
+  "short_name": "RCC Remote",
+  "description": "Mobile-friendly remote console for the Remote Command Center server.",
+  "theme_color": "#0f172a",
+  "background_color": "#020617",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
